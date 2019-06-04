@@ -1,3 +1,5 @@
+# this library was created thanks to the coding train series on neural netwroks
+
 from lib_nn.matrix import Matrix
 import math
 import random
