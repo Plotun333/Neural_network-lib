@@ -1,3 +1,10 @@
 # This is a Neural network library
 
-## created thanks to - [CodinTrain](https://thecodingtrain.com/)
+## Created thanks to
+* ### [CodinTrain](https://thecodingtrain.com/)
+
+## This library also contains
+* ### matrix library
+* ### backpropagation
+* ### Genetic algorthm
+    * 
